@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emmablott/RiderProjects/Horse/HorseLibraryTest/HorseLibraryTest.csproj": {}
+  },
+  "projects": {
+    "/Users/emmablott/RiderProjects/Horse/HorseLibrary/HorseLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmablott/RiderProjects/Horse/HorseLibrary/HorseLibrary.csproj",
+        "projectName": "HorseLibrary",
+        "projectPath": "/Users/emmablott/RiderProjects/Horse/HorseLibrary/HorseLibrary.csproj",
+        "packagesPath": "/Users/emmablott/.nuget/packages/",
+        "outputPath": "/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmablott/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emmablott/RiderProjects/Horse/HorseLibraryTest/HorseLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmablott/RiderProjects/Horse/HorseLibraryTest/HorseLibraryTest.csproj",
+        "projectName": "HorseLibraryTest",
+        "projectPath": "/Users/emmablott/RiderProjects/Horse/HorseLibraryTest/HorseLibraryTest.csproj",
+        "packagesPath": "/Users/emmablott/.nuget/packages/",
+        "outputPath": "/Users/emmablott/RiderProjects/Horse/HorseLibraryTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmablott/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/emmablott/RiderProjects/Horse/HorseLibrary/HorseLibrary.csproj": {
+                "projectPath": "/Users/emmablott/RiderProjects/Horse/HorseLibrary/HorseLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

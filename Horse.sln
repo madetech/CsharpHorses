@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horse", "Horse\Horse.csproj", "{541D788B-0D57-4EF3-992A-A525BA6BD797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseLibrary", "HorseLibrary\HorseLibrary.csproj", "{6149C2AA-D6EF-4324-B6A2-CEE48B1F5B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseLibraryTest", "HorseLibraryTest\HorseLibraryTest.csproj", "{E8A15758-E9AB-4579-97ED-4F9C763E99BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541D788B-0D57-4EF3-992A-A525BA6BD797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541D788B-0D57-4EF3-992A-A525BA6BD797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541D788B-0D57-4EF3-992A-A525BA6BD797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541D788B-0D57-4EF3-992A-A525BA6BD797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6149C2AA-D6EF-4324-B6A2-CEE48B1F5B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6149C2AA-D6EF-4324-B6A2-CEE48B1F5B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6149C2AA-D6EF-4324-B6A2-CEE48B1F5B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6149C2AA-D6EF-4324-B6A2-CEE48B1F5B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A15758-E9AB-4579-97ED-4F9C763E99BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A15758-E9AB-4579-97ED-4F9C763E99BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A15758-E9AB-4579-97ED-4F9C763E99BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A15758-E9AB-4579-97ED-4F9C763E99BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

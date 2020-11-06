@@ -1,0 +1,9 @@
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/bin/Debug/netcoreapp3.1/HorseLibrary.deps.json
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/bin/Debug/netcoreapp3.1/HorseLibrary.dll
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/bin/Debug/netcoreapp3.1/HorseLibrary.pdb
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/Debug/netcoreapp3.1/HorseLibrary.csprojAssemblyReference.cache
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/Debug/netcoreapp3.1/HorseLibrary.AssemblyInfoInputs.cache
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/Debug/netcoreapp3.1/HorseLibrary.AssemblyInfo.cs
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/Debug/netcoreapp3.1/HorseLibrary.csproj.CoreCompileInputs.cache
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/Debug/netcoreapp3.1/HorseLibrary.dll
+/Users/emmablott/RiderProjects/Horse/HorseLibrary/obj/Debug/netcoreapp3.1/HorseLibrary.pdb

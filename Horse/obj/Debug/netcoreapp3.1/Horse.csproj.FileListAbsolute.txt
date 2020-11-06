@@ -1,0 +1,12 @@
+/Users/emmablott/RiderProjects/Horse/Horse/bin/Debug/netcoreapp3.1/Horse.deps.json
+/Users/emmablott/RiderProjects/Horse/Horse/bin/Debug/netcoreapp3.1/Horse.runtimeconfig.json
+/Users/emmablott/RiderProjects/Horse/Horse/bin/Debug/netcoreapp3.1/Horse.runtimeconfig.dev.json
+/Users/emmablott/RiderProjects/Horse/Horse/bin/Debug/netcoreapp3.1/Horse.dll
+/Users/emmablott/RiderProjects/Horse/Horse/bin/Debug/netcoreapp3.1/Horse.pdb
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.csprojAssemblyReference.cache
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.AssemblyInfoInputs.cache
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.AssemblyInfo.cs
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.csproj.CoreCompileInputs.cache
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.dll
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.pdb
+/Users/emmablott/RiderProjects/Horse/Horse/obj/Debug/netcoreapp3.1/Horse.genruntimeconfig.cache
